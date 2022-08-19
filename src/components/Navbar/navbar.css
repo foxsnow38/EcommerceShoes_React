@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap");
+.navbar {
+  padding: 12.5px 0;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90deg, #13171C, #1D2328 );
+  position: -webkit-sticky;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.logo {
+  font-weight: lighter;
+  font-family: "Pacifico" !important;
+}
+.logo span {
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter !important;
+}
